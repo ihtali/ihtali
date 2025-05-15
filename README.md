@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Ihtasham
+👋 Hi, I’m Ihtasham
 
 👀 I’m interested in Full-Stack Development, Mobile App Development, UX Design, and Data Analysis  
 🌱 I’m currently learning React Native, SwiftUI, Python, Firebase, and sharpening my skills in data visualization and user experience design  

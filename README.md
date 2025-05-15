@@ -12,10 +12,10 @@
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
-| [Cricket Club Manager]| App to manage cricket teams, matches, and scoring | React Native, Firebase |
-| [StaySafe]| Personal safety mobile app | SwiftUI, CoreData |
-| [Book Manager]| Book CRUD app for personal collections | Swift, SwiftUI |
-| [React Native CRUDL App]| Drawer + Stack Navigator with module/user CRUDL workflows | React Native, JavaScript, Expo |
+| Cricket Club Manager| App to manage cricket teams, matches, and scoring | React Native, Firebase |
+| StaySafe| Personal safety mobile app | SwiftUI, CoreData |
+| Book Manager| Book CRUD app for personal collections | Swift, SwiftUI |
+| React Native CRUDL App| Drawer + Stack Navigator with module/user CRUDL workflows | React Native, JavaScript, Expo |
 | Java CV Management System | Desktop app for managing CVs with file I/O and modular OOP design | Java |
 | GoldenArrow Transport Ltd | Oracle-based DB system with ER diagrams, constraints, and SQL reports | Oracle, SQL |
 | Cheese Kingdom | E-commerce platform with cart & filtering features | PHP, JavaScript, MySQL |

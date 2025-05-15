@@ -7,3 +7,12 @@
 📫 Contacts: [LinkedIn](https://www.linkedin.com/in/ihtasham-ali-7aa659240/) | [Email](ihtashamia786@gmail.com)  
 😄 Pronouns: He/Him  
 ⚡ Fun fact: I enjoy mixing clean design with functional code — and I love exploring Augmented and Virtual Reality!
+
+## 🚀 Featured Projects
+
+| Project | Description | Tech Stack |
+|--------|-------------|------------|
+| [Cricket Club Manager]| App to manage cricket teams, matches, and scoring | React Native, Firebase |
+| [StaySafe]| Personal safety mobile app | SwiftUI, CoreData |
+| [Book Manager]| Book CRUD app for personal collections | Swift, SwiftUI |
+| [React Native CRUDL App]| Drawer + Stack Navigator with module/user CRUDL workflows | React Native, JavaScript, Expo |

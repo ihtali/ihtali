@@ -20,3 +20,9 @@
 | GoldenArrow Transport Ltd | Oracle-based DB system with ER diagrams, constraints, and SQL reports | Oracle, SQL |
 | Cheese Kingdom | E-commerce platform with cart & filtering features | PHP, JavaScript, MySQL |
 
+## 🛠️ Tech Stack
+
+**Languages:** JavaScript, Swift, Python, Java, SQL  
+**Frameworks & Tools:** React Native, SwiftUI, Firebase, Redux, Figma, Expo, PHP  
+**Databases:** Firebase Realtime DB, MySQL, Oracle  
+**Version Control:** Git, GitHub

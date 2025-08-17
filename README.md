@@ -1,28 +1,175 @@
-👋 Hi, I’m Ihtasham
+👋 Hi, I’m Ihtasham Ali
 
-👀 I’m interested in Full-Stack Development, Mobile App Development, UX Design, and Data Analysis  
-🌱 I’m currently learning React Native, SwiftUI, Python, Firebase, and sharpening my skills in data visualization and user experience design  
-💼 Aspiring Software Engineer | UX-Focused Developer | Data Analyst  
-💞️ I’m looking to collaborate on exciting tech projects that combine clean UI, strong logic, and real-world impact  
-📫 Contacts: [LinkedIn](https://www.linkedin.com/in/ihtasham-ali-7aa659240/) | [Email](ihtashamia786@gmail.com)  
-😄 Pronouns: He/Him  
-⚡ Fun fact: I enjoy mixing clean design with functional code — and I love exploring Augmented and Virtual Reality!
+I’m a First-Class Computer Science graduate from Kingston University, passionate about Full-Stack Development, Mobile App Development, UX Design, and Data Analysis. I love building user-centric, scalable solutions that blend clean design with robust functionality.
 
-## 🚀 Featured Projects
+🌟 About Me
 
-| Project | Description | Tech Stack |
-|--------|-------------|------------|
-| Cricket Club Manager| App to manage cricket teams, matches, and scoring | React Native, Firebase |
-| StaySafe| Personal safety mobile app | SwiftUI, CoreData |
-| Book Manager| Book CRUD app for personal collections | Swift, SwiftUI |
-| React Native CRUDL App| Drawer + Stack Navigator with module/user CRUDL workflows | React Native, JavaScript, Expo |
-| Java CV Management System | Desktop app for managing CVs with file I/O and modular OOP design | Java |
-| GoldenArrow Transport Ltd | Oracle-based DB system with ER diagrams, constraints, and SQL reports | Oracle, SQL |
-| Cheese Kingdom | E-commerce platform with cart & filtering features | PHP, JavaScript, MySQL |
 
-## 🛠️ Tech Stack
 
-**Languages:** JavaScript, Swift, Python, Java, SQL  
-**Frameworks & Tools:** React Native, SwiftUI, Firebase, Redux, Figma, Expo, PHP  
-**Databases:** Firebase Realtime DB, MySQL, Oracle  
-**Version Control:** Git, GitHub
+
+
+👀 Interests: Creating intuitive mobile apps, designing impactful data visualizations, and exploring AI-driven solutions.
+
+
+
+🌱 Currently Learning: Deepening expertise in React Native, SwiftUI, Python, Firebase, and advanced UX design principles.
+
+
+
+💼 Career Goals: Aspiring Software Engineer and UX-Focused Developer, eager to contribute to innovative tech projects.
+
+
+
+💞️ Open to Collaborate: On projects combining sleek UI, strong backend logic, and real-world impact.
+
+
+
+📫 Contact: LinkedIn | Email | Portfolio
+
+
+
+😄 Pronouns: He/Him
+
+
+
+⚡ Fun Fact: I’m fascinated by Augmented Reality (AR) and Virtual Reality (VR), and I enjoy crafting apps that feel as good as they function!
+
+🚀 Featured Projects
+
+
+
+
+
+
+
+Project
+
+
+
+Description
+
+
+
+Tech Stack
+
+
+
+
+
+StaySafe
+
+
+
+Personal safety iOS app with real-time tracking and emergency alerts
+
+
+
+SwiftUI, Core Location, Firebase, MVC
+
+
+
+
+
+Cricket Club Manager
+
+
+
+Mobile app for cricket team management and live scoring
+
+
+
+React Native, Firebase, Redux, Figma
+
+
+
+
+
+Cheese Kingdom
+
+
+
+E-commerce platform with product filtering and cart features
+
+
+
+PHP, JavaScript, MySQL, HTML5, CSS3
+
+
+
+
+
+GoldenArrow Transport Ltd
+
+
+
+Oracle-based database system with ERD and SQL reporting
+
+
+
+OracleDB, SQL, ERD Design
+
+
+
+
+
+Book Manager
+
+
+
+CRUD app for managing personal book collections
+
+
+
+Swift, SwiftUI, CoreData
+
+
+
+
+
+React Native CRUDL App
+
+
+
+App with Drawer + Stack Navigator for user/module workflows
+
+
+
+React Native, JavaScript, Expo, Firebase
+
+
+
+
+
+Java CV Management System
+
+
+
+Desktop app for CV management with modular OOP design
+
+
+
+Java, File I/O
+
+🛠️ Tech Stack
+
+
+
+
+
+Languages: JavaScript, Swift, Python, Java, SQL, Kotlin, C#, C++, PHP, HTML5, CSS3
+
+
+
+Frameworks & Tools: React Native, SwiftUI, Node.js, Redux, Firebase, Power BI, Tableau, Figma, Expo, Postman, Git, GitHub
+
+
+
+Databases: MySQL, PostgreSQL, MongoDB, OracleDB, Firebase (NoSQL), SQL Server
+
+
+
+Technologies: RESTful APIs, CI/CD Pipelines, MVC Architecture, Secure Coding, Docker Basics
+
+
+
+Methodologies: Agile (Scrum), UX Design Thinking, Continuous Integration & Delivery

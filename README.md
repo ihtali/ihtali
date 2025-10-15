@@ -17,6 +17,7 @@
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
 | **Cricket Club Manager** | Platform for cricket clubs to manage teams, matches, and scoring | React Native, Firebase, Redux |
+| **AI-Powered Movie-Recommendation-System ** | Intelligent movie recommender app suggesting similar films with an elegant Streamlit UI| Python, Streamlit, Scikit-learn, Pandas |
 | **StaySafe** | Personal safety mobile app with modern UI | SwiftUI, CoreData |
 | **Book Manager** | CRUD app to manage book collections | Swift, SwiftUI |
 | **React Native CRUDL App** | Drawer + Stack Navigator with full CRUDL workflows | React Native, JavaScript, Expo |

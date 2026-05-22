@@ -1,54 +1,114 @@
-# 👋 Hi, I’m Ihtasham  
+<div align="center">
 
-💡 I’m a First-Class Computer Science graduate from Kingston University with a passion for creating technology that makes a difference. I enjoy working across the full spectrum of software development—from **front-end and back-end engineering** to **UI/UX design** and **data analysis/modeling**.  
+# Ihtasham Ali
 
-👀 **Interests:** Full-Stack Development | UX/UI Design | Data-Driven Solutions | Emerging Tech (AR/VR, AI)  
-🌱 **Currently Learning:** Advanced React Native, SwiftUI, Python for Data, Firebase, and sharpening skills in Data Visualization & User Experience  
-💼 **Career Goals:** Software Engineer | Full-Stack Developer | UI/UX-Focused Developer | Data Analyst  
-💞️ **Collaboration:** Excited to collaborate on projects that blend clean design, strong logic, and real-world impact  
-📫 **Contacts:** [LinkedIn](https://www.linkedin.com/in/ihtasham-ali-7aa659240/) | [Email](mailto:ihtashamia786@gmail.com)  
-😄 **Pronouns:** He/Him  
-⚡ **Fun Fact:** I enjoy mixing **clean design with functional code**, and I’m fascinated by Augmented & Virtual Reality!  
+**Software Engineer · AI & Cloud · Full-Stack · London, UK**
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ihtasham-ali-7aa659240/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.artfolio.tech/iht)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ihtali)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ihtashamia786@gmail.com)
 
-## 🚀 Featured Projects  
-
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| **Cricket Club Manager** | Platform for cricket clubs to manage teams, matches, and scoring | React Native, Firebase, Redux |
-| AI-Powered Movie Recommendation System | Intelligent movie recommender app suggesting similar films with an elegant Streamlit UI| Python, Streamlit, Scikit-learn, Pandas |
-| **StaySafe** | Personal safety mobile app with modern UI | SwiftUI, CoreData |
-| **Book Manager** | CRUD app to manage book collections | Swift, SwiftUI |
-| **React Native CRUDL App** | Drawer + Stack Navigator with full CRUDL workflows | React Native, JavaScript, Expo |
-| **Java CV Management System** | Desktop OOP app for managing CVs with file I/O | Java |
-| **GoldenArrow Transport Ltd** | Oracle-based DB system with ERDs, constraints, and SQL reports | Oracle, SQL |
-| **Cheese Kingdom** | E-commerce platform with cart & filtering features | PHP, JavaScript, MySQL |
-| **Road Accident Dashboard** | Data visualization project using real-world datasets | Tableau, Power BI |
+</div>
 
 ---
 
-## 🛠️ Skills & Technologies  
+## About Me
 
-### 💻 Languages & Frameworks  
-Java • Python • JavaScript • Swift • SwiftUI • React Native • Kotlin • C# • C++ • Node.js • PHP • HTML5 • CSS3 • SQL • JSON  
+First Class Computer Science graduate from Kingston University London and Software Engineer with hands-on industry experience building secure, cloud-native, and AI-driven systems. I work across the full software development lifecycle — from system architecture and backend APIs to frontend interfaces and data pipelines — with a strong focus on clean code, automation, and real-world impact.
 
-### 🗄️ Databases  
-MySQL • PostgreSQL • MongoDB • OracleDB • Firebase (NoSQL) • SQL Server  
-*Proficient in relational & non-relational design, data modeling, query optimization, and SQL scripting*  
+Currently exploring the frontier of **LLM integration**, **retrieval-augmented generation (RAG)**, and intelligent application design.
 
-### ⚙️ Tools & Platforms  
-Git • GitHub • GitLab • Visual Studio • Xcode • PyCharm • Figma • Postman • SharePoint • Power BI • Tableau • Microsoft Excel • Power Apps  
-
-### 🌐 Technologies & Practices  
-RESTful APIs • Cloud-based Backends (Firebase) • CI/CD Pipelines • Core Location • Accelerometer • Multithreading • OOP • CRUD Operations • Persistent Storage • MVC Architecture • Secure Coding • Version Control • Containerization Basics (Docker)  
-
-### 🚀 Development Methodologies  
-Agile (Scrum) • Continuous Integration & Delivery • Application Resiliency • DevOps Awareness  
-
-### 🤝 Soft Skills  
-Problem-Solving • UX Design Thinking • Critical Thinking • Communication • Team Collaboration • Adaptability • Time Management • Leadership  
+```python
+ihtasham = {
+    "location":   "London, UK",
+    "education":  "BSc Computer Science — First Class, Kingston University",
+    "focus":      ["AI/LLM Integration", "Cloud-Native Backend", "Full-Stack Engineering"],
+    "currently":  "Building AI-powered applications & exploring RAG architectures",
+    "open_to":    "Software Engineer | Backend Engineer | AI Engineer roles"
+}
+```
 
 ---
 
-✨ *Always learning, always building, always looking to make an impact through technology.*
+## 🚀 Featured Projects
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [**DocuMind – AI Document Assistant**](#) | RAG-powered chatbot for intelligent PDF Q&A with real-time streaming responses | Python · FastAPI · LangChain · OpenAI · FAISS · React · Docker |
+| [**AI Banking System**](#) | Cloud-native banking backend with an integrated conversational AI agent | Python · FastAPI · Oracle DB · OCI · Google AI SDK · Docker |
+| [**FinTrack**](#) | Full-stack personal finance SaaS with secure multi-tenant architecture | Java · Spring Boot · React · AWS · CI/CD |
+| [**StaySafe**](#) | Personal safety app with real-time location tracking & emergency alerts | Swift · SwiftUI · Core Location · Accelerometer |
+| [**Cricket Club Manager**](#) | Team and match management platform with scoring & performance tracking | React Native · Firebase · Redux · Figma |
+| [**Road Accident Dashboard**](#) | Interactive data visualisation using real-world road accident datasets | Tableau · Power BI |
+| [**Cheese Kingdom**](#) | E-commerce platform with cart, filtering, and product management | PHP · JavaScript · MySQL |
+| [**GoldenArrow Transport**](#) | Oracle-based DB system with ERDs, constraints & SQL reporting | Oracle · SQL |
+
+---
+
+## 🛠️ Tech Stack
+
+### AI & Data
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Google AI](https://img.shields.io/badge/Google_AI_SDK-4285F4?style=flat-square&logo=google&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apache-airflow&logoColor=white)
+![DBT](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+
+### Backend & Cloud
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![Oracle Cloud](https://img.shields.io/badge/OCI-F80000?style=flat-square&logo=oracle&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![NGINX](https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white)
+
+### Frontend & Mobile
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+
+### DevOps & Databases
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+---
+
+## 📜 Certifications
+
+- 🥇 **The Kingston Award — Gold Medal** · Kingston University London · *Jun 2025*
+- ☁️ **Oracle Data Platform 2025 Certified Foundations Associate** · Oracle · *Oct 2025*
+- 💻 **IBM Full Stack Software Developer** · Coursera / IBM · *Apr 2024*
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Ihtasham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ihtali&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=2C5F8A&icon_color=2C5F8A)
+&nbsp;&nbsp;
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ihtali&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=2C5F8A)
+
+</div>
+
+---
+
+<div align="center">
+
+*Always learning · Always building · Always making an impact through technology*
+
+**He/Him · Open to opportunities in London & Remote**
+
+</div>

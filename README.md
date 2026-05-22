@@ -109,6 +109,6 @@ ihtasham = {
 
 *Always learning · Always building · Always making an impact through technology*
 
-**He/Him · Open to opportunities in London & Remote**
+**He/Him · Open to opportunities**
 
 </div>

@@ -93,18 +93,6 @@ ihtasham = {
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Ihtasham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ihtali&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=2C5F8A&icon_color=2C5F8A)
-&nbsp;&nbsp;
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ihtali&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=2C5F8A)
-
-</div>
-
----
-
 <div align="center">
 
 *Always learning · Always building · Always making an impact through technology*

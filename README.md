@@ -35,6 +35,7 @@ ihtasham = {
 
 | Project | Description | Stack |
 |---------|-------------|-------|
+| [**Internal Docs Q&A Assistant**](#) | Production-style RAG assistant over internal knowledge bases — answers with cited sources, refuses when unsure, and measures retrieval quality via an evaluation harness | Python · FastAPI · PostgreSQL · pgvector · React · Docker |
 | [**DocuMind – AI Document Assistant**](#) | RAG-powered chatbot for intelligent PDF Q&A with real-time streaming responses | Python · FastAPI · LangChain · OpenAI · FAISS · React · Docker |
 | [**AI Banking System**](#) | Cloud-native banking backend with an integrated conversational AI agent | Python · FastAPI · Oracle DB · OCI · Google AI SDK · Docker |
 | [**FinTrack**](#) | Full-stack personal finance SaaS with secure multi-tenant architecture | Java · Spring Boot · React · AWS · CI/CD |

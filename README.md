@@ -36,7 +36,7 @@ ihtasham = {
 | Project | Description | Stack |
 |---------|-------------|-------|
 | [**Internal Docs Q&A Assistant**](https://github.com/ihtali/internal-docs-Q-A-assistant) | Production-style RAG assistant over internal knowledge bases: answers with cited sources, refuses when unsure, and measures retrieval quality via an evaluation harness | Python · FastAPI · PostgreSQL · pgvector · React · Docker |
-| [**AI Banking System**](https://github.com/ihtali) | Cloud-native banking backend with an integrated conversational AI agent that calls tools via MCP, with auth, access controls and CI | Python · FastAPI · AI Agent · MCP · Oracle DB · Docker |
+| [**AI Banking System**](https://github.com/ihtali/BANK) | Cloud-native banking backend with an integrated conversational AI agent that calls tools via MCP, with auth, access controls and CI | Python · FastAPI · AI Agent · MCP · Oracle DB · Docker |
 | [**DocuMind, AI Document Assistant**](https://github.com/ihtali) | RAG-powered chatbot for intelligent PDF Q&A with retrieval-grounded answers | Python · FastAPI · LangChain · OpenAI · FAISS · React · Docker |
 | [**FinTrack**](https://github.com/ihtali) | Full-stack personal finance SaaS with secure multi-tenant architecture | Java · Spring Boot · React · AWS · CI/CD |
 | [**Cricket Club Manager**](https://github.com/ihtali/CricketHub) | Team and match management platform with scoring & performance tracking | React Native · Firebase · Redux · Figma |
